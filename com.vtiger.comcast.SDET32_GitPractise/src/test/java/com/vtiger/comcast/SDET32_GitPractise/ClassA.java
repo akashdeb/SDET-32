@@ -7,7 +7,7 @@ public class ClassA {
 	@Test
 	public void demoTest()
 	{
-		System.out.println("First Commit");
+		System.out.println("First Commitfdsf");
 	}
 
 }

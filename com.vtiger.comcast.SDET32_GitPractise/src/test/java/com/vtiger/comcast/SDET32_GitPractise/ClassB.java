@@ -9,6 +9,7 @@ public class ClassB {
 		System.out.println("Second Commit");
 		System.out.println("New Commit1");
 		System.out.println("new Commit six");
+		System.out.println("new commit 8th");
 	}
 
 }

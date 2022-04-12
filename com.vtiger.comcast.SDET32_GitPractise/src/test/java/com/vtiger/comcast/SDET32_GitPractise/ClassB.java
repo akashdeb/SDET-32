@@ -8,7 +8,7 @@ public class ClassB {
 	public void demoTest2(){
 		System.out.println("Second Commit");
 		System.out.println("New Commit1");
-		System.out.println("new Commit 6");
+		System.out.println("new Commit six");
 	}
 
 }
